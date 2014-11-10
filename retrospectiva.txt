@@ -1,0 +1,15 @@
++:
+ - novidade foi legal (specflow, bdd, ...)
+ - evoluiu bem
+ - mantivemos a ordem
+ - poucas opniões de quem estava de fora
+ - foi organizado
+ - cinco minutos foi bom (3 votos)
+
+-:
+ - temos q pensar em alguma atitude qnd travar (quem está no comando deve perguntar mais)
+ - cinco minutos foi pouco (3 votos)
+
+acoes:
+ - aumentar o tempo (7 minutos ou fazer uma regra com o numero de participantes)
+ - explicar mas fazer
